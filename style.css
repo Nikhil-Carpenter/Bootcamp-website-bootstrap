@@ -1,0 +1,9 @@
+@media (min-width: 768px) {
+  .newsletter {
+    width: 50%;
+  }
+}
+
+body {
+  margin-top: 50px;
+}
